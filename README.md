@@ -1,9 +1,3 @@
-
-
-It takes the user's height in inches and weight in pounds and calculates their BMI.
-
-The app has a clean and user-friendly interface. 
-
 <h2>BMI_Calculator is an Android Studio application</h2>
 
 This program takes the user's height in inches and weight in pounds to calculate their BMI.
