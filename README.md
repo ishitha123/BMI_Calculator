@@ -6,5 +6,5 @@ This program takes the user's height in inches and weight in pounds to calculate
 So far the application looks like this👇<br><br>
 
 <p align="center">
-<img src="" alt="BMI_Calculator" width="90%" height="70%">
+<img src="https://github.com/ishitha123/BMI_Calculator/blob/main/BMI_Empty_Screenshot.png" alt="BMI_Calculator" width="90%" height="70%">
 </p>
